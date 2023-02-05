@@ -1,0 +1,16 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+  color: darkgray;
+  font-weight: 700;
+}
+h3 {
+  color: rgb(140, 0, 255)
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(214, 217, 10);
+}
